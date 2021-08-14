@@ -1,0 +1,16 @@
+#bg{
+	/*background-color:thistle;*/
+	background-image:url('image.jpg');
+	background-repeat:no-repeat;
+	/*background-position:center center;*/
+	background-position:5% 25%;
+	background-size:cover;/*will occupy the whole text in 100%,without repeating the image you can use contain(dont cut the image) instead cover*/
+	/*background-attachment:fixed; BOTH WILL MOVE(TEXT AND BG IMAGE */
+	background-attachment:fixed; /*background remain same text will move*/
+}
+
+
+
+/*body{
+	background-color:grey;
+}*/
